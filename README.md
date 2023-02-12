@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://ale-85.github.io/interacting-rating-component/)
+- Solution URL: https://ale-85.github.io/interacting-rating-component/
 
 ## My process
 
